@@ -1,4 +1,4 @@
-# Repositorio M2 Talento Digital Javascript
+# Repositorio M6 Talento Digital Javascript
 - [Repositorio Principal](https://github.com/Kessillox/JSADLM6)
 
 ### Ramas con proyectos del módulo
