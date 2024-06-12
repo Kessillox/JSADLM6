@@ -1,21 +1,18 @@
 # Repositorio M2 Talento Digital Javascript
-- [Repositorio Principal](https://github.com/Kessillox/M2TDJS)
+- [Repositorio Principal](https://github.com/Kessillox/JSADLM6)
 
 ### Ramas con proyectos del módulo
-- [Rama Currículum](https://github.com/Kessillox/M2TDJS/tree/cvfelipekessi)
-- [Rama Meet And Coffe](https://github.com/Kessillox/M2TDJS/tree/meetandcoffe)
-- [Rama Iguana Page](https://github.com/Kessillox/M2TDJS/tree/iguanapage)
-- [Rama Suricata](https://github.com/Kessillox/M2TDJS/tree/suricata)
-- [Rama Olivia Ross](https://github.com/Kessillox/M2TDJS/tree/oliviaross)
-- [Rama Cuppon](https://github.com/Kessillox/M2TDJS/tree/cuppon)
-- [Rama Notas Finales](https://github.com/Kessillox/M2TDJS/tree/notas)
-- [Rama Ricomida](https://github.com/Kessillox/M2TDJS/tree/ricomida)
-- [Rama Viajes Chile](https://github.com/Kessillox/M2TDJS/tree/viajeschile)
+- [Rama Abracadabra](https://github.com/Kessillox/JSADLM6/tree/abracadabra)
+- [Rama Mercado Web](https://github.com/Kessillox/JSADLM6/tree/mercadoweb)
+- [Rama Citas Médicas](https://github.com/Kessillox/JSADLM6/tree/citasmedicas)
+- [Rama Black and White](https://github.com/Kessillox/JSADLM6/tree/blackandwhite)
+- [Rama Club Deportivo (Prueba)](https://github.com/Kessillox/JSADLM6/tree/club)
+
 
 
 ### Comandos Git Branch Apoyo
 ```
-  git clone 
+  git clone https://github.com/Kessillox/JSADLM6.git
   git checkout -b nombre-branch // crear y cambiarse de branch
 
   git add .
